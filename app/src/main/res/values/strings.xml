@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Fibonacci</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_result_screen">ResultScreen</string>
+    <string name="back">Back</string>
+    <string name="resulting_fibonacci_number">Resulting Fibonacci Number: </string>
+    <string name="error_message">NUMBER MUST BE BELOW 40!</string>
+    <string name="empty"></string>
+    <string name="enter_the_nth_fibonacci_number">Enter the nth Fibonacci Number below 40</string>
+    <string name="faq">What is a Fibonacci Number?</string>
+    <string name="title_activity_info_screen">InfoScreen</string>
+    <string name="go_back">Go Back</string>
+    <string name="fibonacci_intro">By definition, the first two numbers in the Fibonacci sequence are either 1 and 1, or 0 and 1, depending on the chosen starting point of the sequence, and each subsequent number is the sum of the previous two.</string>
+    <string name="button_wiki">Look up in Wikipedia</string>
+    <string name="title_activity_get_wiki">GetWiki</string>
+</resources>
